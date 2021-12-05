@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: 8c209fee226dacc4182acda18269a3d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlaneMarketPrefab: {instanceID: 0}
+  - ObjectToSpawnGround: {fileID: 2837330724119426523, guid: afb4a09187e55ac40afce01ecbb89570,
+      type: 3}
+  - SoilderScene1: {fileID: 1399922626012732469, guid: 729ee7d257e448f409b5168b4213407f,
+      type: 3}
+  - UnvisibleObject: {fileID: 3512517401406795041, guid: 950eed6412b9b9d4ab17eea5fe7f867b,
+      type: 3}
+  - Bullet: {fileID: 158912, guid: 05fc4d742a550a049885e8aac79b49d4, type: 3}
+  - DestroyBullet: {fileID: 3512517401406795041, guid: 3acd5cdf61c31f04e90b00e0dd0c1810,
+      type: 3}
+  - BulletBigSpeed: {fileID: 158912, guid: 32733fca3c5c48f41a41a0074a9f6beb, type: 3}
+  - PickUpCar: {fileID: 5072229975015063875, guid: f3c1f75af32df1b4ba3bf6e2919911e7,
+      type: 3}
+  - Crystal: {fileID: 6000014851880560817, guid: 82749873fffaa6f43888245ab4d4ec77,
+      type: 3}
+  - InputFieldSpeed1: {instanceID: 0}
+  - ButtnSpeed1: {instanceID: 0}
+  - ConditZadach1: {instanceID: 0}
+  - ReplayButtnSc1: {instanceID: 0}
+  - ConditZadach2: {instanceID: 0}
+  - InputForce2: {instanceID: 0}
+  - ButtnForce2: {instanceID: 0}
+  - ReplayScene2: {instanceID: 0}
+  - SoldierScene2: {fileID: 3796857088499516309, guid: 748f1ad23bbbd19408265244c13fe396,
+      type: 3}
+  - Panelground2: {fileID: 2837330724119426523, guid: a10b7fa7f79e5ea428fb81e2b49bdc75,
+      type: 3}
+  - Soldier2SmalForc: {fileID: 3796857088499516309, guid: 61bc254c46d2be146b06f87a9aea229c,
+      type: 3}
+  - Soldier2BigForc: {fileID: 3796857088499516309, guid: 6f08fce62239ab14daa2d2fad936a3f9,
+      type: 3}
+  - GameOver: {instanceID: 0}
+  - WinMessag: {instanceID: 0}
+  - EssencialMessage: {instanceID: 0}
+  - BreakMessage: {instanceID: 0}
+  - NotForceSmall: {instanceID: 0}
+  - SoldierShotScene3: {fileID: 5666302672101525892, guid: 1f4b9f03504bb9341b8e161e1ac44aae,
+      type: 3}
+  - Sphere3SmalL: {fileID: 1922913352031413485, guid: 771161501ef49074c9ded8bd805a2ec7,
+      type: 3}
+  - PanelGround3: {fileID: 2837330724119426523, guid: 435e6c337eebcc24eb46780ccd03c9b3,
+      type: 3}
+  - SoildCatchBull: {fileID: 5666302672101525892, guid: b30afcd79a229144ca3a0a7256eae05c,
+      type: 3}
+  - Spere: {fileID: 1922913352031413485, guid: eacfb0172eeab804981776394bf9b244, type: 3}
+  - CatchSphere3: {fileID: 1922913352031413485, guid: d1e7f65697e16d84e93679de47841261,
+      type: 3}
+  - ConditZadach3: {instanceID: 0}
+  - InputLength3: {instanceID: 0}
+  - InputHeight3: {instanceID: 0}
+  - ButtonLength3: {instanceID: 0}
+  - TooMinSpeed: {instanceID: 0}
+  - TooMaxSpeed: {instanceID: 0}
+  - Horizontal: {instanceID: 0}
+  - Monitor: {instanceID: 0}
+  - Mountain: {instanceID: 0}
+  - Soild: {instanceID: 0}
+  - BulletCopy: {instanceID: 0}
+  - ReplayScene3: {instanceID: 0}
+  - NotForceBig: {instanceID: 0}
+  - WRONG: {instanceID: 0}
+  - LittleLengt: {instanceID: 0}
+  - LittleHeught: {instanceID: 0}
+  - BigHeught: {instanceID: 0}
+  - BigLengt: {instanceID: 0}
+  - ReplMenu: {instanceID: 0}
+  - Sphere3Bigg: {fileID: 1922913352031413485, guid: 8142f2049d77dc94fb0ec131bcf79fc7,
+      type: 3}
+  - NotInputHegtL: {instanceID: 0}
+  - ReplMenuAgain: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
